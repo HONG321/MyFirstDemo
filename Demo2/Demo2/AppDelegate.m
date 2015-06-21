@@ -1,6 +1,6 @@
 //
 //  AppDelegate.m
-//  Demo
+//  Demo2
 //
 //  Created by Zhanghong on 15/6/21.
 //  Copyright (c) 2015年 HeiMa. All rights reserved.

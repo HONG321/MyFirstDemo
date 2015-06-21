@@ -1,6 +1,6 @@
 //
-//  DemoTests.m
-//  DemoTests
+//  Demo2Tests.m
+//  Demo2Tests
 //
 //  Created by Zhanghong on 15/6/21.
 //  Copyright (c) 2015年 HeiMa. All rights reserved.
@@ -9,11 +9,11 @@
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-@interface DemoTests : XCTestCase
+@interface Demo2Tests : XCTestCase
 
 @end
 
-@implementation DemoTests
+@implementation Demo2Tests
 
 - (void)setUp {
     [super setUp];
